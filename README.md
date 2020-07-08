@@ -3,7 +3,7 @@ Learning reinforcement learning (in MATLAB®)
 
 ## Abstract
 
-This software a playground and is aimed specifically at studying reinforcement learning (RL) in detail witch a rich variety of settings.
+This software a playground and is aimed specifically at studying reinforcement learning (RL) in detail with a rich variety of settings.
 The core of the playground is based upon a model of a mobile robot, referred to as the so called "extended non-holonomic double integrator" (ENDI).
 See [these notes](ENDI-notes.pdf) for its description.
 A flowchart of the overall code can be found in [here](MATLAB-RL-flowchart.pdf).
